@@ -1,0 +1,9 @@
+import step1_preprocess
+import step2_KNN_cal_distance_matrix
+import step3_test_KNN
+import step4_plot_confusion_matrix
+
+step1_preprocess
+step2_KNN_cal_distance_matrix
+step3_test_KNN
+step4_plot_confusion_matrix
